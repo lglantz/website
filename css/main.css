@@ -16,6 +16,10 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
+.hero-text {
+  color: white;
+  text-align: center;
+}
 
 .hero-area {
   background-image: url("../imgs/dog.jpg");
@@ -28,6 +32,8 @@ body {
   display: flex;
   align-items: center;
 }
+
+
 
 
 /******************************************
